@@ -2,19 +2,21 @@
 
 ![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ff6f9c&size=12&lines=Hello👋🏻,+Welcome+to+my+Github+page;+Im+Enzo+Lima,+Front-End+Developer)
 
-### 👨🏻‍💻 About me:
+<br/> 
+ <img align="right" alt="Gengar-gif" src="https://github.com/limaenz/limaenz/blob/main/img/gengar.gif" height="120"/>
+
+   <h3> 👨🏻‍💻 About me: </h3>
   
     - 🎓 Studying Analysis and Systems Development at Facens
     - 👯 I’m looking for the first opportunity to work in the area 
     - 👨🏻‍💻 I am a tech enthusiast & a self learner
 
+<br/>
+
 <div align="center">
   <a href="https://github.com/limaenz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limaenz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <div style="position:relative; top:0px; left:0px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaenz&layout=compact&langs_count=7&theme=dracula"/>
-  <div style="position:absolute; top:97px; left:70px">
-   <img align="center" alt="Gengar-gif" height="160" src="./img/gengar.gif">
 </div>
 
 <div style="display: inline_block"><br>
