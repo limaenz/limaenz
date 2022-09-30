@@ -1,14 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-limaenz&color=5b3786)
 
-![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ff6f9c&size=12&lines=Hello👋🏻,+Welcome+to+my+Github+page;+Im+Enzo+Lima,+Front-End+Developer)
+![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ff6f9c&size=12&lines=Hello👋🏻,+Welcome+to+my+Github+page;+Im+Enzo+Lima,+Back-end+Developer)
 
 <br/> 
  <img align="right" alt="Gengar-gif" src="https://github.com/limaenz/limaenz/blob/main/img/gengar.gif" height="120"/>
 
    <h3> 👨🏻‍💻 About me: </h3>
   
-    - 🎓 Studying Analysis and Systems Development at Facens
-    - 👯 I’m looking for the first opportunity to work in the area 
+    - 🎓 Studying Analysis and Systems Development at Facens 
     - 👨🏻‍💻 I am a tech enthusiast & a self learner
 
 <br/>
