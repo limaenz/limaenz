@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-limaenz&color=5b3786)
 
-![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ff6f9c&size=12&lines=Hello👋🏻,+Welcome+to+my+Github+page;+Im+Enzo+Lima,+Back-end+Developer)
+![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ff6f9c&size=12&lines=Hello👋🏻,+Welcome+to+my+Github+page;+Im+Enzo+Lima,+Software-end+Developer)
 
 <br/> 
  <img align="right" alt="Gengar-gif" src="https://github.com/limaenz/limaenz/blob/main/img/gengar.gif" height="120"/>
