@@ -7,7 +7,7 @@
 
    <h3> 👨🏻‍💻 About me: </h3>
   
-    - 🎓 Studying Analysis and Systems Development at Facens 
+    - 🎓 Software Developer .NET 
     - 👨🏻‍💻 I am a tech enthusiast & a self learner
 
 <br/>
